@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Ajax and XUL</title>
+  <description>XML graphical interface etc...</description>
+  <link>https://www.xul.fr/en/</link>
+  <image>
+      <url>https://www.xul.fr/xul-icon.gif</url>
+      <link>https://www.xul.fr/en/index.php</link>
+  </image>
+  <item>
+      <title>News  of today</title>
+      <description>All you need to know about RSS</description>
+      <link>https://www.xul.fr/en-xml-rss.html</link>
+  </item>
+  <item>
+      <title>News of tomorrows</title>
+      <description>And now, all about RDF</description>
+      <link>https://www.xul.fr/en-xml-rdf.html</link>
+    </item>
+</channel>
+</rss> 
